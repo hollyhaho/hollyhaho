@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello World 👋
+
+- 👩🏻‍💻 My name is Holly and I’m currently a Software Engineer working in the defense industry in southern California
+- 🎯 I am actively looking for new positions where I can continue growing and learning. I am interested in full stack development focused more on backend devopment
+- 📚 I am studying python but have been learned various other languages during my undergraduate career studying computer science
+- ⚡ In my free time, I like studying Vietnamese, running, reading, and getting a good laugh in with friends
 
 <!--
 **hollyhaho/hollyhaho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
