@@ -2,7 +2,7 @@
 
 - 👩🏻‍💻 My name is Holly and I’m currently a Software Engineer working in the defense industry in southern California
 - 🎯 I am actively looking for new positions where I can continue growing and learning. I am interested in full stack development focused more on backend devopment
-- 📚 I am studying python but have been learned various other languages during my undergraduate career studying computer science
+- 📚 I am studying fullstack development so I am focusing on ReactJS and NodeJS but have been learned various other languages and technologies during my undergraduate career studying computer science
 - ⚡ In my free time, I like studying Vietnamese, running, reading, and getting a good laugh in with friends
 
 <!--
